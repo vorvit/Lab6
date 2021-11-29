@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_6-1", "Lab6\Task_6-1.csproj", "{0DFE8311-BDAF-415E-8995-FE977578834B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_6-2", "Task_6-2\Task_6-2.csproj", "{D67F3EC0-C61A-477F-A93A-947BB10CC36C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_6-3", "Task_6-3\Task_6-3.csproj", "{DF3B2E9F-AF5A-40BF-A290-C499B6C5976A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DFE8311-BDAF-415E-8995-FE977578834B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFE8311-BDAF-415E-8995-FE977578834B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFE8311-BDAF-415E-8995-FE977578834B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFE8311-BDAF-415E-8995-FE977578834B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67F3EC0-C61A-477F-A93A-947BB10CC36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67F3EC0-C61A-477F-A93A-947BB10CC36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67F3EC0-C61A-477F-A93A-947BB10CC36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67F3EC0-C61A-477F-A93A-947BB10CC36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3B2E9F-AF5A-40BF-A290-C499B6C5976A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3B2E9F-AF5A-40BF-A290-C499B6C5976A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3B2E9F-AF5A-40BF-A290-C499B6C5976A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3B2E9F-AF5A-40BF-A290-C499B6C5976A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A7B5F24-F38C-428A-BC6D-44278243238B}
+	EndGlobalSection
+EndGlobal
